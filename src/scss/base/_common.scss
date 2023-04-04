@@ -4,9 +4,16 @@ body {
 
 .container {
   max-width: 1046px;  
-  
   margin: 0 auto;
 
 //   margin-right: auto;
 //   margin-left: auto;
+}
+
+section {
+  padding: 80px 0;
+}
+
+.features {
+  background: #fafafa;
 }
