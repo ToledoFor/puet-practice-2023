@@ -7,10 +7,9 @@ const demo1 = () => {
 
 const demo2 = function () {
     // other statements ...
-
+    let demo4 = 5
     console.log(demo4)
-    let demo4 = 5    
-
+        
     console.log(demo5)
     var demo5 = 'test'
     console.log(demo5)
@@ -31,5 +30,4 @@ const test = {
 test.key = 1
 
 const demo3 = demo
-
 console.log(demo2());
